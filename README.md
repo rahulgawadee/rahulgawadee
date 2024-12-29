@@ -25,47 +25,7 @@ Hey there! 👋 I'm **Rahul Gawade**, a tech-savvy Full-Stack Developer who thri
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,aws,docker,kubernetes,jenkins,typescript,python,cpp,git,github,redux,html,css,nextjs,bootstrap,tensorflow,vite&theme=dark" alt="Tech Stack" />
 </p>
 
----
 
-### 🌟 **Showcase Projects**
-#### 🛠️ **Real-Time Collaboration Platform**  
-🌐 [Live Demo](https://realtime-collab.rahulgawade.com) • 🚀 [GitHub Repo](https://github.com/rahulgawadee/real-time-collab)  
-🔧 Tech Stack: MERN, **Socket.IO**, **AWS**, **GitHub Actions**, **Docker**  
-- Built a **real-time chat and video meeting app** handling 150+ users with **ultra-low latency**.  
-- Automated deployments with **CI/CD pipelines** on **AWS** using **Docker**.
-
-#### 🛒 **E-Commerce Platform**  
-🌐 [Live Demo](https://rahulsstore.netlify.app/) • 🚀 [GitHub Repo](https://github.com/rahulgawadee/e-commerce)  
-🔧 Tech Stack: MERN, **Stripe Payments**, **Redux**, **Tailwind CSS**  
-- Designed a sleek, responsive shopping experience with **secure payments** and advanced filters.  
-- Deployed with **GitHub Actions**, ensuring smooth updates.
-
-#### 🔍 **AI-Powered Fashion Material Analyzer**  
-🌐 [Live Demo](https://fashionai.rahulgawade.com) • 🚀 [GitHub Repo](https://github.com/rahulgawadee/fashion-analyzer)  
-🔧 Tech Stack: TensorFlow, **AI/ML**, **MERN**, **Cloud Deployment**  
-- An AI-driven platform to **detect and analyze fashion materials** and **optimize waste reuse**.  
-
----
-
-### 🌐 **How I Work**
-**🛠️ Tools I Love:**  
-- Version Control: **Git & GitHub**  
-- Deployment: **AWS**, **Vercel**, **Netlify**  
-- IDE: **VS Code**  
-- Monitoring: **Prometheus**, **Grafana**  
-
-**🌱 Currently Learning:**  
-- Advanced **Kubernetes**  
-- Mastering **Serverless Architectures**  
-
----
-
-### 🏆 **Highlights & Achievements**
-- **Hackathon Winner**: Secured 1st place in multiple hackathons, showcasing innovative solutions in AI and web development.  
-- **DevOps Advocate**: Automated deployments for production-ready applications with **zero downtime**.  
-- **SPOC for Smart India Hackathon**: Coordinating with teams to deliver **national-level solutions**.  
-
----
 
 ### 📈 **GitHub Stats**
 <p align="center">
