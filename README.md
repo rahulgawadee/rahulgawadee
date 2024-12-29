@@ -1,24 +1,25 @@
-<h1 align="center">🚀 Rahul Gawade - Full-Stack Developer & AI Enthusiast 👨‍💻</h1>
-<p align="center">🌟 MERN Stack | Cloud Enthusiast | AI Innovator 🌟</p>
+<h1 align="center">🚀 Rahul Gawade - Full-Stack Developer & DevOps Enthusiast 👨‍💻</h1>
+<p align="center">🌟 MERN Stack | Cloud Technologies | DevOps | AI Innovator 🌟</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI-Powered+Solution+Creator;Cloud+Technologies+Explorer;Empowering+Innovations+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+Practitioner;Cloud+Solution+Architect;AI-Powered+Innovator" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌐 **About Me**
-I'm a passionate **Full-Stack Developer** (B.E. '25) specializing in the **MERN stack** with a knack for building **AI-powered solutions** and **cloud-scalable applications**. I have **2-3 months of hands-on experience** in developing real-time, efficient, and user-friendly platforms.  
+I'm a passionate **Full-Stack Developer** (B.E. '25) and a **DevOps enthusiast**, specializing in the **MERN stack** with expertise in **CI/CD pipelines**, **cloud deployment**, and **AI-powered solutions**. I aim to create scalable, efficient, and innovative applications that enhance user experiences and leverage modern technologies.  
+
 ⚡ **Key Highlights:**  
-- **Cloud Expertise**: Skilled in **AWS** and **Docker** with a focus on secure, scalable solutions.  
-- **AI/ML Enthusiast**: Experience with **Generative AI**, **TensorFlow**, and **Google Gemini Pro API**.  
-- **Collaboration & Mentorship**: Empowering juniors with coding knowledge and project guidance.
+- **Cloud & DevOps**: Skilled in **AWS**, **Docker**, **Kubernetes**, and **CI/CD pipelines** using **GitHub Actions** and **Jenkins**.  
+- **Automation**: Streamlined development workflows and automated deployments for faster delivery.  
+- **AI & ML**: Hands-on with **TensorFlow**, **Google Gemini Pro**, and Generative AI tools.
 
 ---
 
 ### 🛠️ **Tech Stack & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,aws,docker,typescript,python,cpp,git,github,redux,html,css,nextjs,angular,tensorflow&theme=dark" alt="Skills Icons" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,aws,docker,kubernetes,jenkins,typescript,python,cpp,git,github,redux,html,css,nextjs,angular,tensorflow,bootstrap&theme=dark" alt="Skills Icons" />
 </p>
 
 ---
@@ -28,32 +29,41 @@ I'm a passionate **Full-Stack Developer** (B.E. '25) specializing in the **MERN 
 🖥️ **Zealits Solutions** • Pune • *October 2024 - Present*  
 - 🛠️ Developed a **real-time video calling application** with integrated AI features.  
 - 💬 Built a **real-time chat app** ensuring seamless communication with **Socket.IO**.  
-- ☁️ Deployed scalable applications on **AWS** using **Docker**, maintaining 99.9% uptime.  
-- 🔐 Engineered **secure RESTful APIs** with **Node.js** and **Express**.  
-- 📈 Optimized application performance, reducing server load by **20%** during peak usage.
+- ☁️ Deployed applications using **AWS** and **Docker**, ensuring high scalability and 99.9% uptime.  
+- 🔄 Implemented **CI/CD pipelines** with **GitHub Actions**, automating build and deployment processes.  
+- 🚀 Gained expertise in **Kubernetes** for container orchestration, managing microservices efficiently.  
+
+---
+
+### 💡 **DevOps Expertise**
+- **CI/CD Pipelines**: Automated builds, testing, and deployments using **GitHub Actions**, **Jenkins**, and **CircleCI**.  
+- **Cloud Deployments**: Deployed and managed scalable applications on **AWS**, **Azure**, and **Google Cloud**.  
+- **Containerization**: Expertise in **Docker**, with knowledge of container orchestration using **Kubernetes**.  
+- **Monitoring & Logging**: Implemented monitoring solutions with **Prometheus** and **Grafana** to ensure system reliability.  
+- **Infrastructure as Code (IaC)**: Experience with **Terraform** and **AWS CloudFormation** to manage infrastructure.  
 
 ---
 
 ### 💡 **Projects**
 #### 🚀 **Real-Time Meeting App**  
 📅 *November 2024 - December 2024*  
-🔧 Tools: MERN Stack, **Socket.IO**, **JWT**, **AWS**, **Docker**  
-- Built a **real-time meeting platform** with video calls, handling **100+ concurrent users**.  
-- Secured data with **JWT-based authentication**.  
-- Deployed on **AWS**, achieving ultra-low latency (<100ms).
+🔧 Tools: MERN Stack, **Socket.IO**, **JWT**, **AWS**, **Docker**, **GitHub Actions**  
+- Built a **real-time meeting platform** with video calls and chat, handling **100+ concurrent users**.  
+- Automated **CI/CD pipelines** for seamless integration and deployment.  
+- Deployed on **AWS** with **Docker**, achieving ultra-low latency (<100ms).  
 
 #### 🛍️ **Rahul’s Shopping Site**  
 🌐 [Live Demo](https://rahulsshopeee.netlify.app/) • *June 2024 - August 2024*  
-🔧 Tools: MERN Stack, **Stripe**, **Redux**  
+🔧 Tools: MERN Stack, **Stripe**, **Redux**, **GitHub Actions**  
 - Designed an **eCommerce platform** with over 200+ products.  
+- Automated build and deployment using **CI/CD pipelines**.  
 - Enhanced **UI/UX**, improving user retention by **20%**.  
-- Boosted backend API performance by **25%** using query optimization.
 
 #### 💪 **Fitness Maintenance Website**  
 🌐 [Live Demo](https://fitness-website-part1.vercel.app/) • *January 2024 - February 2024*  
-🔧 Tools: MERN Stack, **GitHub**  
+🔧 Tools: MERN Stack, **GitHub Actions**, **AWS**  
 - Created a fitness tracking platform with a **gamified progress tracker**, increasing engagement by **30%**.  
-- Implemented **push notifications** to boost user retention.
+- Leveraged **CI/CD pipelines** to ensure smooth feature updates and deployments.  
 
 ---
 
@@ -91,10 +101,10 @@ I'm a passionate **Full-Stack Developer** (B.E. '25) specializing in the **MERN 
 
 ---
 
-### 🧑‍💻 **For Juniors**
-💡 **Quick Tip**: Start small, keep building, and never hesitate to ask questions. Every expert was once a beginner. Join me in my mentoring sessions and collaborative projects! 🚀
+### 🧑‍💻 **For Juniors & Developers**
+💡 **Quick Tip for DevOps Enthusiasts**: Automate everything you can! Start small with CI/CD pipelines and gradually incorporate containerization and orchestration to make your projects scalable and reliable. 🚀  
 
 ---
 
 ### ✨ **Fun Fact**
-When I'm not coding, I’m dreaming of the next big AI innovation or binge-watching sci-fi movies! 🌌  
+When I'm not coding or deploying apps, I’m brainstorming on how to build the next **AI-powered DevOps tool**! 🌌  
