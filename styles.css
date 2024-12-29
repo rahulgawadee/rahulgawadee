@@ -1,0 +1,63 @@
+/* General Styles */
+.header {
+  color: #4CAF50;
+  font-size: 36px;
+}
+
+.subheader {
+  color: #FF6347;
+  font-size: 28px;
+}
+
+.about-me {
+  background: linear-gradient(to right, #f8b400, #f54291);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.about-me ul {
+  list-style-type: none;
+  padding: 0;
+  color: #fff;
+  font-size: 18px;
+}
+
+.animated-bg {
+  background: linear-gradient(45deg, #f54291, #ff6347);
+  animation: gradient 4s infinite alternate;
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+}
+
+@keyframes gradient {
+  0% {
+    background: linear-gradient(45deg, #ff6347, #f8b400);
+  }
+  100% {
+    background: linear-gradient(45deg, #f8b400, #ff6347);
+  }
+}
+
+.hover-button:hover {
+  background-color: #ff6347;
+  transform: scale(1.1);
+  transition: all 0.3s ease-in-out;
+}
+
+/* Tech Stack Section */
+.tech-stack {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+ul {
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+a {
+  text-decoration: none;
+}
