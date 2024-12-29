@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack MERN Developer | 💡 Generative AI Explorer | 🖥️ Tech Enthusiast | 🤖 AI/ML Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Generative+AI+Enthusiast+%F0%9F%A7%BA;Exploring+AI+%26+ML+For+Future+Technologies!+%F0%9F%92%99" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Generative+AI+Enthusiast+%F0%9F%A7%BA;Exploring+AI+%26+ML+For+Future+Technologies!+%F0%9F%92%99](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Generative+AI+Enthusiast+%F0%9F%A7%BA;AI+ML+For+Future+Tech)" alt="Typing SVG" />
 </p>
 
 ---
