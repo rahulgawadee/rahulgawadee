@@ -18,7 +18,7 @@
 
 ### 🚀 Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,docker,mongodb,python,cpp,html,css,tailwind,git,github,tensorflow,pytorch&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,putty,mongodb,python,cpp,html,css,tailwind,git,github,tensorflow,pytorch&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
