@@ -2,8 +2,9 @@
 <p align="center">🚀 Full-Stack Developer | DevOps Enthusiast | AI Innovator 🚀</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=28&duration=5000&pause=500&color=FF5733&center=true&vCenter=true&width=700&lines=Crafting+Innovative+Web+Experiences;From+Code+to+Cloud+%F0%9F%A4%9A;Transforming+Ideas+with+AI+%F0%9F%A4%9C;Passionate+About+Tech+%26+Problem-Solving;Never+Stopping+Learning+%F0%9F%91%8D" alt="Creative Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=1000&color=FF6347&center=true&vCenter=true&width=700&lines=Building+the+Future+of+Tech+%F0%9F%9A%80;Passionate+Full-Stack+MERN+Developer;Exploring+AI%2C+ML%2C+Cloud+%26+DevOps;Turning+Ideas+Into+Code+%F0%9F%A4%9A;Code+%26+Creativity+in+Constant+Motion+%F0%9F%99%8C" alt="Dynamic Typing SVG" />
 </p>
+
 
 
 ---
