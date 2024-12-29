@@ -1,25 +1,9 @@
-# 🌟 Welcome to Rahul Gawade's Digital Space 🌟
-## 🚀 Full-Stack Developer | DevOps Enthusiast | AI Innovator 🚀
+<h1 align="center">🌟 Welcome to Rahul Gawade's Digital Space 🌟</h1>
+<p align="center">🚀 Full-Stack Developer | DevOps Enthusiast | AI Innovator 🚀</p>
 
 <p align="center">
-  <span style="font-size: 28px; font-family: 'Fira Code', monospace; color: #36BCF7; font-weight: bold; animation: glowingText 3s ease-in-out infinite;">
-    💡 Always Learning & Building Something New!
-  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+MERN+Developer;Cloud+%26+DevOps+Practitioner;AI+%26+ML+Innovator;Passionate+Problem+Solver;Always+Learning+%26+Building+Something+New" alt="Typing SVG" />
 </p>
-
-<style>
-  @keyframes glowingText {
-    0% {
-      text-shadow: 0 0 5px #fff, 0 0 10px #FFD700, 0 0 15px #FFD700, 0 0 20px #FF6347, 0 0 30px #FF6347;
-    }
-    50% {
-      text-shadow: 0 0 5px #fff, 0 0 15px #FFD700, 0 0 20px #FFD700, 0 0 25px #FF6347, 0 0 35px #FF6347;
-    }
-    100% {
-      text-shadow: 0 0 5px #fff, 0 0 10px #FFD700, 0 0 15px #FFD700, 0 0 20px #FF6347, 0 0 30px #FF6347;
-    }
-  }
-</style>
 
 ---
 
@@ -27,8 +11,6 @@
 Hey there! 👋 I'm **Rahul Gawade**, a tech-savvy Full-Stack Developer who thrives on turning ideas into impactful solutions. My journey is driven by a passion for **cutting-edge technologies** like **DevOps**, **AI**, and **Cloud Computing**. From designing dynamic web apps to building robust backends and automating workflows, I aim to create products that scale and inspire.  
 
 💡 **Motto**: *"Code. Build. Innovate. Repeat."*
-
----
 
 ### 🚀 **What I Bring to the Table**
 - **Full-Stack Wizardry**: Expertise in the **MERN stack**, crafting responsive and scalable applications.  
