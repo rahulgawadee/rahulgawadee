@@ -1,18 +1,18 @@
 <h1 align="center">Hey, I'm Rahul Gawade! 👨‍💻</h1>
-<h3 align="center">🚀 Full Stack MERN Developer | 💡 Generative AI Explorer | 🖥️ Tech Enthusiast</h3>
+<h3 align="center">🚀 Full Stack MERN Developer | 💡 Generative AI Explorer | 🖥️ Tech Enthusiast | 🤖 AI/ML Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Generative+AI+Enthusiast+%F0%9F%A7%BA;Always+learning+new+things!+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Generative+AI+Enthusiast+%F0%9F%A7%BA;Exploring+AI+%26+ML+For+Future+Technologies!+%F0%9F%92%99" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌟 About Me  
-- 🔥 Passionate about solving real-world problems with **code** and building **impactful applications**.  
-- 👨‍💻 Working on **AI-driven projects** like **Fashion Material Recognition** and **Smart Chatbots**.  
-- 🧠 Focused on **Deep Learning** and building efficient **web applications** using the **MERN stack**.  
-- 🛠️ Actively mentoring juniors in coding and project building to help them kickstart their journey.  
-- ✨ Motto: "Code, Learn, Repeat."  
+- 🔥 **Passionate about AI & ML**: Focused on developing innovative **AI-powered solutions** to drive real-world impact.  
+- 👨‍💻 Building **AI-driven projects** like **Fashion Material Recognition** and **Smart Chatbots** to improve industries with the power of machine learning.  
+- 🧠 Constantly diving into **Deep Learning**, building **efficient web applications**, and integrating **Generative AI** to solve complex problems.  
+- 🛠️ I love mentoring juniors and fostering the next generation of coders and AI innovators!  
+- ✨ Motto: "**AI for the future, code for today!**"  
 
 ---
 
@@ -20,6 +20,18 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,putty,mongodb,python,cpp,html,css,tailwind,git,github,tensorflow,pytorch&theme=dark" alt="Tech Stack" />
 </p>
+
+---
+
+### 🤖 AI & ML Projects  
+#### 💡 AI-Powered Fashion Material Recognition  
+- An **AI/ML-based system** to identify and analyze fashion materials, assessing their damage for recycling and reuse.
+
+#### 💬 Smart Chatbot Development  
+- Using **Generative AI** to build conversational agents that provide 24/7 assistance and improve user engagement across platforms.
+
+#### 🧠 Deep Learning  
+- Working with **TensorFlow** and **PyTorch** to build intelligent models for pattern recognition and data analysis.
 
 ---
 
@@ -52,9 +64,11 @@
 ### 🧑‍🏫 For Juniors  
 > _"Start small, stay curious, and never stop asking questions. Every coder was once a beginner."_  
 
-💡 **Join my mentoring sessions** or collaborate on exciting open-source projects!  
+💡 **Join my mentoring sessions** or collaborate on exciting **AI/ML-driven** open-source projects!
 
 ---
 
 ### 🎯 Fun Fact  
-When I’m not coding, I’m exploring AI models, solving puzzles, or daydreaming about building the next big startup! 🚀  
+When I’m not coding, I’m exploring AI models, solving puzzles, or daydreaming about building the next big **AI-powered startup**! 🚀  
+
+---
