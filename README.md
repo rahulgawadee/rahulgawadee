@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Rahul Gawade! 👨‍💻</h1>
-<h3 align="center">🚀 Full Stack MERN Developer | 💡 Generative AI Explorer | 🖥️ Tech Enthusiast | 🤖 AI/ML Innovator</h3>
+<h1 align="center" class="header">Hey, I'm Rahul Gawade! 👨‍💻</h1>
+<h3 align="center" class="subheader">🚀 Full Stack MERN Developer | 💡 Generative AI Explorer | 🖥️ Tech Enthusiast | 🤖 AI/ML Innovator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Generative+AI+Enthusiast+%F0%9F%A7%BA;AI+ML+For+Future+Tech" alt="Typing SVG" />
@@ -8,11 +8,15 @@
 ---
 
 ### 🌟 About Me  
-- 🔥 **Passionate about AI & ML**: Focused on developing innovative **AI-powered solutions** to drive real-world impact.  
-- 👨‍💻 Building **AI-driven projects** like **Fashion Material Recognition** and **Smart Chatbots** to improve industries with the power of machine learning.  
-- 🧠 Constantly diving into **Deep Learning**, building **efficient web applications**, and integrating **Generative AI** to solve complex problems.  
-- 🛠️ I love mentoring juniors and fostering the next generation of coders and AI innovators!  
-- ✨ Motto: "**AI for the future, code for today!**"  
+<div class="about-me">
+  <ul>
+    <li>🔥 **Passionate about AI & ML**: Focused on developing innovative **AI-powered solutions** to drive real-world impact.</li>
+    <li>👨‍💻 Building **AI-driven projects** like **Fashion Material Recognition** and **Smart Chatbots** to improve industries with the power of machine learning.</li>
+    <li>🧠 Constantly diving into **Deep Learning**, building **efficient web applications**, and integrating **Generative AI** to solve complex problems.</li>
+    <li>🛠️ I love mentoring juniors and fostering the next generation of coders and AI innovators!</li>
+    <li>✨ Motto: "**AI for the future, code for today!**"</li>
+  </ul>
+</div>
 
 ---
 
@@ -25,11 +29,11 @@
 
 ### 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgawadee&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgawadee&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulgawadee&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgawadee&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulgawadee&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgawadee&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -58,5 +62,3 @@
 
 ### 🎯 Fun Fact  
 When I’m not coding, I’m exploring AI models, solving puzzles, or daydreaming about building the next big **AI-powered startup**! 🚀  
-
----
