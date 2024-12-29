@@ -29,17 +29,6 @@
 - ✨ Guided **120+ juniors** in hackathons and technical projects.  
 - 🏅 Developed an **AI-powered chatbot** for Rajasthan's **Department of Technical Education**.  
 
----
-
-### 💡 Featured Projects  
-<p align="center">
-  <a href="https://github.com/rahulgawadee/AI-Fashion-Material-Recognition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulgawadee&repo=AI-Fashion-Material-Recognition&theme=radical" alt="AI Fashion Material Recognition" />
-  </a>
-  <a href="https://github.com/rahulgawadee/Smart-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulgawadee&repo=Smart-Chatbot&theme=radical" alt="Smart Chatbot" />
-  </a>
-</p>
 
 ---
 
