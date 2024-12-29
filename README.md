@@ -23,18 +23,19 @@
 
 ---
 
-### 🤖 AI & ML Projects  
-#### 💡 AI-Powered Fashion Material Recognition  
-- An **AI/ML-based system** to identify and analyze fashion materials, assessing their damage for recycling and reuse.
-
-#### 💬 Smart Chatbot Development  
-- Using **Generative AI** to build conversational agents that provide 24/7 assistance and improve user engagement across platforms.
-
-#### 🧠 Deep Learning  
-- Working with **TensorFlow** and **PyTorch** to build intelligent models for pattern recognition and data analysis.
 
 ---
 
+### 📊 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgawadee&theme=radical" alt="Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulgawadee&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgawadee&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
 ### 🌐 Let's Connect  
 <p align="center">
   <a href="https://linkedin.com/in/rahulgawadee" target="_blank">
@@ -48,16 +49,6 @@
   </a>
 </p>
 
----
-
-### 📊 GitHub Analytics  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgawadee&theme=radical" alt="Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulgawadee&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgawadee&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
