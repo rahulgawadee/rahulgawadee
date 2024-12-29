@@ -2,8 +2,35 @@
 <p align="center">🚀 Full-Stack Developer | DevOps Enthusiast | AI Innovator 🚀</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=28&duration=3000&pause=1000&color=FF6347&center=true&vCenter=true&width=700&lines=Building+the+Future+of+Tech+%F0%9F%9A%80;Passionate+Full-Stack+MERN+Developer;Exploring+AI%2C+ML%2C+Cloud+%26+DevOps;Turning+Ideas+Into+Code+%F0%9F%A4%9A;Code+%26+Creativity+in+Constant+Motion+%F0%9F%99%8C" alt="Dynamic Typing SVG" />
+  <span style="font-size: 28px; font-family: 'Fira Code', monospace; color: #36BCF7; font-weight: bold;">
+    🚀 Full-Stack MERN Developer | AI & ML Enthusiast | Cloud & DevOps Practitioner
+  </span>
+  <br />
+  <span style="font-size: 22px; color: #FFD700; font-style: italic; opacity: 0.8;">
+    👨‍💻 Passionate Problem Solver | Always Innovating | Building Future Tech 🌐
+  </span>
+  <br />
+  <div style="position: relative; margin-top: 20px; padding: 5px; background: linear-gradient(to right, #FF6347, #FFD700); border-radius: 10px; display: inline-block;">
+    <span style="font-size: 18px; font-family: 'Fira Code', monospace; color: white; animation: glowingText 3s ease-in-out infinite;">
+      💡 Always Learning & Building Something New!
+    </span>
+  </div>
 </p>
+
+<style>
+  @keyframes glowingText {
+    0% {
+      text-shadow: 0 0 5px #fff, 0 0 10px #FFD700, 0 0 15px #FFD700, 0 0 20px #FF6347, 0 0 30px #FF6347;
+    }
+    50% {
+      text-shadow: 0 0 5px #fff, 0 0 15px #FFD700, 0 0 20px #FFD700, 0 0 25px #FF6347, 0 0 35px #FF6347;
+    }
+    100% {
+      text-shadow: 0 0 5px #fff, 0 0 10px #FFD700, 0 0 15px #FFD700, 0 0 20px #FF6347, 0 0 30px #FF6347;
+    }
+  }
+</style>
+
 
 
 
