@@ -7,19 +7,6 @@
 
 ---
 
-### 🌟 About Me  
-<div class="about-me">
-  <ul>
-    <li>🔥 **Passionate about AI & ML**: Focused on developing innovative **AI-powered solutions** to drive real-world impact.</li>
-    <li>👨‍💻 Building **AI-driven projects** like **Fashion Material Recognition** and **Smart Chatbots** to improve industries with the power of machine learning.</li>
-    <li>🧠 Constantly diving into **Deep Learning**, building **efficient web applications**, and integrating **Generative AI** to solve complex problems.</li>
-    <li>🛠️ I love mentoring juniors and fostering the next generation of coders and AI innovators!</li>
-    <li>✨ Motto: "**AI for the future, code for today!**"</li>
-  </ul>
-</div>
-
----
-
 ### 🚀 Tech Stack & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,docker,mongodb,python,cpp,html,css,tailwind,git,github,tensorflow,pytorch&theme=dark" alt="Tech Stack" />
