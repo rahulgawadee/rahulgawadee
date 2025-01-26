@@ -1,4 +1,4 @@
-# 👨‍💻 Rahul Gawade | Full Stack Developer & AI Innovator
+# 👨‍💻 Rahul Gawade | Full Stack Developer & Gen-AI Exhaust
 
 ## 🌟 Professional Profile
 
