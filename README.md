@@ -1,6 +1,3 @@
-Here's your enhanced version with more stacks, tools, and improvements:  
-
----
 
 # 👨‍💻 Rahul Gawade | Full Stack Developer & Gen-AI Enthusiast  
 
