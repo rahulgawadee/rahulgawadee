@@ -4,7 +4,7 @@
 
 I'm a **passionate Full Stack MERN Developer and Generative AI Innovator**, dedicated to pushing the boundaries of **technology, AI, and innovation**. With expertise in **AI/ML**, **deep learning**, and **full-stack development**, I craft scalable web applications while exploring cutting-edge AI solutions to shape the future of tech.  
 
-![Typing Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Generative+AI+Innovator+%F0%9F%A7%BA;Machine+Learning+Engineer+%F0%9F%9A%80;MERN+Stack+Expert+%E2%9C%A8;Tech+Community+Contributor+%F0%9F%91%8D)  
+![Typing Animation](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=4000&pause=1000&color=00C7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Generative+AI+Innovator+%F0%9F%A7%BA;Machine+Learning;MERN+Stack+Expert+%E2%9C%A8;Tech+Community+Contributor+%F0%9F%91%8D)  
 
 ## 🛠️ Technology Stack  
 
